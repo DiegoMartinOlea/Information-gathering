@@ -1,0 +1,898 @@
+Starting Nmap 7.93 ( https://nmap.org ) at 2023-10-05 23:47 CEST
+Nmap scan report for ad.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for 3rd.mishop.pandora.xiaomi.com (124.251.101.26)
+Host is up (0.33s latency).
+Nmap scan report for a.stat.xiaomi.com (20.47.97.231)
+Host is up (0.076s latency).
+Nmap scan report for activity.hybrid.xiaomi.com (20.47.97.231)
+Host is up (0.076s latency).
+Nmap scan report for admin.hybrid.xiaomi.com (183.84.7.86)
+Host is up (0.33s latency).
+Other addresses for admin.hybrid.xiaomi.com (not scanned): 124.251.100.130
+Nmap scan report for aivision.aiasst.xiaomi.com (47.245.110.122)
+Host is up (0.17s latency).
+Nmap scan report for api.ad.xiaomi.com (212.145.41.242)
+Host is up (0.039s latency).
+Other addresses for api.ad.xiaomi.com (not scanned): 212.145.41.210
+rDNS record for 212.145.41.242: din-242-41-145-212.ipcom.comunitel.net
+Nmap scan report for a0.app.xiaomi.com (20.47.97.231)
+Host is up (0.076s latency).
+Nmap scan report for a.video.xiaomi.com (124.251.101.3)
+Host is up (0.34s latency).
+Other addresses for a.video.xiaomi.com (not scanned): 183.84.5.56
+Nmap scan report for api-aicall.aiasst.xiaomi.com (20.47.97.231)
+Host is up (0.077s latency).
+Nmap scan report for api.developer.xiaomi.com (20.47.97.231)
+Host is up (0.077s latency).
+Nmap scan report for api-translator.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for api.d.xiaomi.com (183.84.7.86)
+Host is up (0.33s latency).
+Other addresses for api.d.xiaomi.com (not scanned): 124.251.100.130
+Nmap scan report for app.market.xiaomi.com (161.117.171.225)
+Host is up (0.17s latency).
+Nmap scan report for api.video.xiaomi.com (124.251.101.3)
+Host is up (0.33s latency).
+Other addresses for api.video.xiaomi.com (not scanned): 183.84.5.56
+Nmap scan report for assist-preview.ai.xiaomi.com (20.47.97.231)
+Host is up (0.077s latency).
+Nmap scan report for ares.ai.xiaomi.com (20.47.97.231)
+Host is up (0.077s latency).
+Nmap scan report for appstore.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for b0.market.xiaomi.com (163.171.135.104)
+Host is up (0.026s latency).
+Nmap scan report for bdl0.market.xiaomi.com (212.145.209.72)
+Host is up (0.0068s latency).
+Other addresses for bdl0.market.xiaomi.com (not scanned): 212.145.41.224
+rDNS record for 212.145.209.72: din-adsl-a-18-72.ipcom.comunitel.net
+Nmap scan report for b8.market.xiaomi.com (47.246.45.227)
+Host is up (0.034s latency).
+Other addresses for b8.market.xiaomi.com (not scanned): 47.246.45.230 47.246.45.226 47.246.45.231 47.246.45.225 47.246.45.224 47.246.45.229 47.246.45.228
+Nmap scan report for b1.market.xiaomi.com (163.171.135.104)
+Host is up (0.036s latency).
+Nmap scan report for bg0.market.xiaomi.com (212.145.209.72)
+Host is up (0.046s latency).
+Other addresses for bg0.market.xiaomi.com (not scanned): 212.145.41.224
+rDNS record for 212.145.209.72: din-adsl-a-18-72.ipcom.comunitel.net
+Nmap scan report for b7.market.xiaomi.com (47.246.45.226)
+Host is up (0.065s latency).
+Other addresses for b7.market.xiaomi.com (not scanned): 47.246.45.231 47.246.45.225 47.246.45.224 47.246.45.229 47.246.45.228 47.246.45.227 47.246.45.230
+Nmap scan report for b9.market.xiaomi.com (47.246.45.225)
+Host is up (0.026s latency).
+Other addresses for b9.market.xiaomi.com (not scanned): 47.246.45.224 47.246.45.229 47.246.45.228 47.246.45.227 47.246.45.230 47.246.45.226 47.246.45.231
+Nmap scan report for b5.market.xiaomi.com (47.246.45.229)
+Host is up (0.048s latency).
+Other addresses for b5.market.xiaomi.com (not scanned): 47.246.45.228 47.246.45.227 47.246.45.230 47.246.45.226 47.246.45.231 47.246.45.225 47.246.45.224
+Nmap scan report for b4.market.xiaomi.com (47.246.45.227)
+Host is up (0.046s latency).
+Other addresses for b4.market.xiaomi.com (not scanned): 47.246.45.230 47.246.45.226 47.246.45.231 47.246.45.225 47.246.45.224 47.246.45.229 47.246.45.228
+Nmap scan report for bgp.cdn.c3.xiaomi.com (20.47.97.231)
+Host is up (0.078s latency).
+Nmap scan report for bbs.mihome.xiaomi.com (20.47.97.231)
+Host is up (0.077s latency).
+Nmap scan report for b3.market.xiaomi.com (163.171.135.104)
+Host is up (0.0044s latency).
+Nmap scan report for b2.market.xiaomi.com (163.171.135.104)
+Host is up (0.0047s latency).
+Nmap scan report for b6.market.xiaomi.com (47.246.45.226)
+Host is up (0.010s latency).
+Other addresses for b6.market.xiaomi.com (not scanned): 47.246.45.231 47.246.45.225 47.246.45.224 47.246.45.229 47.246.45.228 47.246.45.227 47.246.45.230
+Nmap scan report for bg3.market.xiaomi.com (111.31.112.80)
+Host is up (0.27s latency).
+Other addresses for bg3.market.xiaomi.com (not scanned): 120.226.43.251 111.6.167.87 117.141.140.111 117.185.129.105 183.204.72.249 111.31.112.79 120.226.43.250 111.6.167.86 117.141.140.112 117.185.129.99 183.204.72.250
+Nmap scan report for blog-en-miui-pri-alisgp.alb.xiaomi.com (47.241.182.42)
+Host is up (0.17s latency).
+Nmap scan report for bg1.market.xiaomi.com (212.145.41.224)
+Host is up (0.023s latency).
+Other addresses for bg1.market.xiaomi.com (not scanned): 212.145.209.72
+rDNS record for 212.145.41.224: poolvisp1-vig-224.ipcom.comunitel.net
+Nmap scan report for bgp.pandora.xiaomi.com (124.251.101.26)
+Host is up (0.33s latency).
+Nmap scan report for billapi.xiaomi.com (20.47.97.231)
+Host is up (0.078s latency).
+Nmap scan report for bgp.orig.cdn.xiaomi.com (120.133.33.207)
+Host is up (0.33s latency).
+Other addresses for bgp.orig.cdn.xiaomi.com (not scanned): 183.84.6.219
+Nmap scan report for bigdata-lbs-pri-c3.alb.xiaomi.com (124.251.100.14)
+Host is up (0.33s latency).
+Nmap scan report for app.wallpaper.cdn.pandora.xiaomi.com (122.227.201.1)
+Host is up (0.34s latency).
+Other addresses for app.wallpaper.cdn.pandora.xiaomi.com (not scanned): 116.253.30.232 221.195.228.1 42.81.54.129 115.231.33.1 175.6.49.1 221.204.17.1 218.60.21.6 111.227.116.1
+Nmap scan report for b2c-pri-c3-c4.alb.xiaomi.com (124.251.34.26)
+Host is up (0.34s latency).
+Other addresses for b2c-pri-c3-c4.alb.xiaomi.com (not scanned): 183.84.7.185
+Nmap scan report for bss.pandora.xiaomi.com (183.84.5.15)
+Host is up (0.34s latency).
+Other addresses for bss.pandora.xiaomi.com (not scanned): 124.251.101.50
+Nmap scan report for boss.mvideo.xiaomi.com (124.251.101.3)
+Host is up (0.33s latency).
+Other addresses for boss.mvideo.xiaomi.com (not scanned): 183.84.5.56
+Nmap scan report for bossadmin.pandora.xiaomi.com (183.84.5.15)
+Host is up (0.34s latency).
+Other addresses for bossadmin.pandora.xiaomi.com (not scanned): 124.251.101.50
+Nmap scan report for c1.pandora.xiaomi.com (183.84.6.65)
+Host is up (0.34s latency).
+Nmap scan report for c3.pandora.xiaomi.com (124.251.101.26)
+Host is up (0.33s latency).
+Nmap scan report for c3.lp.account.xiaomi.com (20.47.97.125)
+Host is up (0.054s latency).
+Nmap scan report for car.ai.xiaomi.com (3.127.227.23)
+Host is up (0.035s latency).
+Other addresses for car.ai.xiaomi.com (not scanned): 18.194.222.150
+rDNS record for 3.127.227.23: ec2-3-127-227-23.eu-central-1.compute.amazonaws.com
+Nmap scan report for car.hybrid.xiaomi.com (20.47.97.231)
+Host is up (0.078s latency).
+Nmap scan report for c4.pandora.xiaomi.com (183.84.5.15)
+Host is up (0.34s latency).
+Nmap scan report for c6.pandora.xiaomi.com (110.43.63.3)
+Host is up (0.32s latency).
+Nmap scan report for bigdata-public-extranet-pri-c3-c4-pri-c3-c4.alb.xiaomi.com (120.133.33.139)
+Host is up (0.33s latency).
+Other addresses for bigdata-public-extranet-pri-c3-c4-pri-c3-c4.alb.xiaomi.com (not scanned): 183.84.6.182
+Nmap scan report for browsers-pri-c4.alb.xiaomi.com (183.84.5.11)
+Host is up (0.34s latency).
+Nmap scan report for cc.sys.intl.xiaomi.com (20.47.97.238)
+Host is up (0.065s latency).
+Nmap scan report for ccc.sys.intl.xiaomi.com (20.47.97.238)
+Host is up (0.056s latency).
+Nmap scan report for cdn.experiment.xiaomi.com (101.33.11.110)
+Host is up (0.062s latency).
+Other addresses for cdn.experiment.xiaomi.com (not scanned): 43.132.66.178 43.132.64.93 101.33.11.29 43.132.66.177 43.132.64.96
+Nmap scan report for bgp.fe01.c3.xiaomi.com (20.47.97.231)
+Host is up (0.078s latency).
+Nmap scan report for cdn.exp.xiaomi.com (43.152.188.226)
+Host is up (0.046s latency).
+Other addresses for cdn.exp.xiaomi.com (not scanned): 43.152.188.150
+Nmap scan report for browsers-pri-c3-c4.alb.xiaomi.com (183.84.5.11)
+Host is up (0.33s latency).
+Other addresses for browsers-pri-c3-c4.alb.xiaomi.com (not scanned): 124.251.100.109
+Nmap scan report for browsers-ipv6-pri-c3-c4.alb.xiaomi.com (183.84.5.11)
+Host is up (0.33s latency).
+Other addresses for browsers-ipv6-pri-c3-c4.alb.xiaomi.com (not scanned): 124.251.100.109
+Nmap scan report for cloudcontrol.ai.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for cdn.pandora.xiaomi.com (118.26.252.188)
+Host is up (0.33s latency).
+Nmap scan report for cms.nfcpay.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for cloudcontrol-preview.ai.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for cloud.evad.xiaomi.com (120.92.122.34)
+Host is up (0.32s latency).
+Nmap scan report for cnc.pandora.xiaomi.com (123.125.102.5)
+Host is up (0.31s latency).
+Nmap scan report for coml7.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for comc5l7.pandora.xiaomi.com (120.92.65.14)
+Host is up (0.31s latency).
+Nmap scan report for comc4l7.pandora.xiaomi.com (183.84.6.65)
+Host is up (0.34s latency).
+Nmap scan report for comc3l7.pandora.xiaomi.com (124.251.101.26)
+Host is up (0.34s latency).
+Nmap scan report for comc1l7.pandora.xiaomi.com (183.84.6.65)
+Host is up (0.35s latency).
+Nmap scan report for cs.be.xiaomi.com (3.127.227.23)
+Host is up (0.097s latency).
+Other addresses for cs.be.xiaomi.com (not scanned): 18.194.222.150
+rDNS record for 3.127.227.23: ec2-3-127-227-23.eu-central-1.compute.amazonaws.com
+Nmap scan report for cs.pt.xiaomi.com (3.127.227.23)
+Host is up (0.096s latency).
+Other addresses for cs.pt.xiaomi.com (not scanned): 18.194.222.150
+rDNS record for 3.127.227.23: ec2-3-127-227-23.eu-central-1.compute.amazonaws.com
+Nmap scan report for creator.xiaomi.com (52.80.11.6)
+Host is up (0.31s latency).
+Other addresses for creator.xiaomi.com (not scanned): 54.223.148.239
+rDNS record for 52.80.11.6: ec2-52-80-11-6.cn-north-1.compute.amazonaws.com.cn
+Nmap scan report for creditcard.nfcpay.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for creator.test.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for data.game.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for de.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for developer.hybrid.xiaomi.com (183.84.7.86)
+Host is up (0.34s latency).
+Other addresses for developer.hybrid.xiaomi.com (not scanned): 124.251.100.130
+Nmap scan report for docs.api.xiaomi.com (3.127.227.23)
+Host is up (0.036s latency).
+Other addresses for docs.api.xiaomi.com (not scanned): 18.194.222.150
+rDNS record for 3.127.227.23: ec2-3-127-227-23.eu-central-1.compute.amazonaws.com
+Nmap scan report for drm.market.xiaomi.com (20.47.97.238)
+Host is up (0.097s latency).
+Nmap scan report for duckling-preview.ai.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for eng.miui.xiaomi.com (20.47.97.231)
+Host is up (0.064s latency).
+Nmap scan report for exp.recommend.pt.xiaomi.com (20.47.97.231)
+Host is up (0.042s latency).
+Nmap scan report for drm-market-xiaomi-pri-alisgp.alb.xiaomi.com (47.241.174.11)
+Host is up (0.17s latency).
+Nmap scan report for extranet-im03-pri-alisgp.alb.xiaomi.com (47.241.29.126)
+Host is up (0.17s latency).
+Other addresses for extranet-im03-pri-alisgp.alb.xiaomi.com (not scanned): 161.117.184.228
+Nmap scan report for extranet-im02-pri-alisgp.alb.xiaomi.com (47.241.77.94)
+Host is up (0.18s latency).
+Other addresses for extranet-im02-pri-alisgp.alb.xiaomi.com (not scanned): 47.241.239.119 8.219.109.150
+Nmap scan report for emq.xmpush.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for extranet-x-miui-pri-alisgp.alb.xiaomi.com (47.241.94.133)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.from-mfe-sec.gv0kuhzimn.elb.xiaomi.com (47.241.6.185)
+Host is up (0.17s latency).
+Nmap scan report for drm.market.intl.xiaomi.com (20.47.97.238)
+Host is up (0.048s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-backend.qdkfgpaup7.elb.xiaomi.com (161.117.227.252)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-bbs.ch3db6kf3g.elb.xiaomi.com (161.117.163.123)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-bbs.ec3zuiki72.elb.xiaomi.com (161.117.171.235)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-browser.4u6kki1iuk.elb.xiaomi.com (47.241.39.215)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-browser.9rv1ldj0yi.elb.xiaomi.com (161.117.191.121)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-browser.egp2iatnbr.elb.xiaomi.com (47.241.0.17)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-browser.c8ypuirvbs.elb.xiaomi.com (161.117.231.84)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-browser.mq5m5xp2rn.elb.xiaomi.com (161.117.245.245)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-bsp-jupiter.hmcyoomggf.elb.xiaomi.com (161.117.228.47)
+Host is up (0.18s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-bsp-unlock.9qos5acwpj.elb.xiaomi.com (161.117.171.86)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-bsp-unlock.qf68d5nrep.elb.xiaomi.com (161.117.162.63)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-coreapp.rlvwaseey9.elb.xiaomi.com (161.117.245.158)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com (161.117.86.42)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com (47.241.4.250)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com (161.117.179.18)
+Host is up (0.18s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-middle.e2on9odrpk.elb.xiaomi.com (47.74.240.161)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-middle.g5jt2g7t5o.elb.xiaomi.com (47.74.223.198)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-ota.amj8w12ntn.elb.xiaomi.com (161.117.86.249)
+Host is up (0.18s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-sec.mp5pcorotq.elb.xiaomi.com (161.117.162.187)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-sec.rnfliwmiif.elb.xiaomi.com (161.117.57.135)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-ota.u3p1nzvnwj.elb.xiaomi.com (47.241.30.235)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-ota.v3qx9opfna.elb.xiaomi.com (161.117.191.87)
+Host is up (0.18s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-wtr.7bkowuwetr.elb.xiaomi.com (161.117.160.151)
+Host is up (0.17s latency).
+Nmap scan report for extranet.ap-southeast-1.miui-l7-wtr.btvammtdvp.elb.xiaomi.com (161.117.163.69)
+Host is up (0.17s latency).
+Nmap scan report for dushu.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for extranet.c3.miui-l7-middle.nroxajo77s.elb.xiaomi.com (58.83.160.21)
+Host is up (0.35s latency).
+Nmap scan report for extranet.c3.miui-l7-miuiauto.jfy8jtmofl.elb.xiaomi.com (124.251.100.169)
+Host is up (0.34s latency).
+Nmap scan report for extranet.eu-east-1.miui-l7-bsp-jupiter.dynrnjopkp.elb.xiaomi.com (107.155.52.79)
+Host is up (0.076s latency).
+Nmap scan report for extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com (107.155.53.177)
+Host is up (0.099s latency).
+Nmap scan report for extranet.eu-east-1.miui-l7-middle.dwddxgqyqv.elb.xiaomi.com (107.155.52.206)
+Host is up (0.10s latency).
+Nmap scan report for extranet.c4.miui-l7-bsp-jupiter.dbuxvaim4z.elb.xiaomi.com (183.84.6.173)
+Host is up (0.34s latency).
+Nmap scan report for extranet.c4.miui-l7-feedback.q2fo3bs76f.elb.xiaomi.com (183.84.5.120)
+Host is up (0.33s latency).
+Nmap scan report for extranet.c4.miui-l7-miuiauto.bcmmezkwb9.elb.xiaomi.com (183.84.6.123)
+Host is up (0.33s latency).
+Nmap scan report for f15.market.xiaomi.com (163.171.160.195)
+Host is up (0.073s latency).
+Nmap scan report for f17.market.xiaomi.com (163.171.160.195)
+Host is up (0.073s latency).
+Nmap scan report for extranet-ipv4-pub-alisgp.alb.xiaomi.com (8.214.39.79)
+Host is up (0.17s latency).
+Other addresses for extranet-ipv4-pub-alisgp.alb.xiaomi.com (not scanned): 8.214.88.90 8.219.219.212 8.219.228.95 8.222.196.233 8.222.240.136
+Nmap scan report for f1.market.xiaomi.com (152.199.21.175)
+Host is up (0.0045s latency).
+Nmap scan report for extranet-ipv4-pub-azams.alb.xiaomi.com (20.47.97.238)
+Host is up (0.062s latency).
+Nmap scan report for extranet-ipv4-pub-ksmos-epc.alb.xiaomi.com (107.155.53.109)
+Host is up (0.092s latency).
+Other addresses for extranet-ipv4-pub-ksmos-epc.alb.xiaomi.com (not scanned): 107.155.53.111
+Nmap scan report for f3.market.xiaomi.com (152.199.21.175)
+Host is up (0.0077s latency).
+Nmap scan report for extranet-ipv4-pub-mbaws.alb.xiaomi.com (35.154.241.122)
+Host is up (0.17s latency).
+rDNS record for 35.154.241.122: ec2-35-154-241-122.ap-south-1.compute.amazonaws.com
+Nmap scan report for f2.market.xiaomi.com (152.199.21.175)
+Host is up (0.038s latency).
+Nmap scan report for f5.market.xiaomi.com (152.199.21.175)
+Host is up (0.043s latency).
+Nmap scan report for extranet-pwerbiproxy-c3-c4.alb.xiaomi.com (124.251.34.42)
+Host is up (0.33s latency).
+Other addresses for extranet-pwerbiproxy-c3-c4.alb.xiaomi.com (not scanned): 183.84.7.4 183.84.7.187 120.133.33.137
+Nmap scan report for f8.market.xiaomi.com (152.199.21.175)
+Host is up (0.0060s latency).
+Nmap scan report for f6.market.xiaomi.com (152.199.21.175)
+Host is up (0.0063s latency).
+Nmap scan report for f7.market.xiaomi.com (152.199.21.175)
+Host is up (0.036s latency).
+Nmap scan report for extranet-alllines-pub-c3-c4.alb.xiaomi.com (120.133.33.137)
+Host is up (0.32s latency).
+Other addresses for extranet-alllines-pub-c3-c4.alb.xiaomi.com (not scanned): 124.251.34.42 183.84.7.4 183.84.7.187
+Nmap scan report for extranet-ai-preview-pri-c3.alb.xiaomi.com (120.133.33.167)
+Host is up (0.33s latency).
+Nmap scan report for extranet-alllines-ipv6-pub-c3-c4.alb.xiaomi.com (183.84.7.188)
+Host is up (0.34s latency).
+Other addresses for extranet-alllines-ipv6-pub-c3-c4.alb.xiaomi.com (not scanned): 124.251.34.43 124.251.58.58 183.84.5.170
+Nmap scan report for extranet-alllines-ipv6-pub-c3.alb.xiaomi.com (124.251.58.58)
+Host is up (0.36s latency).
+Nmap scan report for fga0.market.xiaomi.com (212.145.209.72)
+Host is up (0.046s latency).
+Other addresses for fga0.market.xiaomi.com (not scanned): 212.145.41.224
+rDNS record for 212.145.209.72: din-adsl-a-18-72.ipcom.comunitel.net
+Nmap scan report for extranet-pri-c4.alb.xiaomi.com (183.84.5.11)
+Host is up (0.33s latency).
+Nmap scan report for fgb0.market.xiaomi.com (212.145.209.72)
+Host is up (0.0056s latency).
+Other addresses for fgb0.market.xiaomi.com (not scanned): 212.145.41.224
+rDNS record for 212.145.209.72: din-adsl-a-18-72.ipcom.comunitel.net
+Nmap scan report for fdsc3.iss.xiaomi.com (20.47.97.231)
+Host is up (0.080s latency).
+Nmap scan report for f9.market.xiaomi.com (152.199.21.175)
+Host is up (0.014s latency).
+Nmap scan report for ff0.market.xiaomi.com (43.152.26.197)
+Host is up (0.071s latency).
+Other addresses for ff0.market.xiaomi.com (not scanned): 43.132.66.51 43.132.64.151 43.152.44.160 43.152.26.154 43.152.26.58 43.152.26.151 43.152.26.221
+Nmap scan report for fga1.market.xiaomi.com (43.132.64.151)
+Host is up (0.039s latency).
+Other addresses for fga1.market.xiaomi.com (not scanned): 43.152.44.160 43.152.26.154 43.152.26.58 43.152.26.151 43.152.26.221 43.152.26.197 43.132.66.51
+Nmap scan report for fgc1.market.xiaomi.com (212.145.209.72)
+Host is up (0.0059s latency).
+Other addresses for fgc1.market.xiaomi.com (not scanned): 212.145.41.224
+rDNS record for 212.145.209.72: din-adsl-a-18-72.ipcom.comunitel.net
+Nmap scan report for fgc0.market.xiaomi.com (43.152.26.154)
+Host is up (0.058s latency).
+Other addresses for fgc0.market.xiaomi.com (not scanned): 43.152.26.58 43.152.26.151 43.152.26.221 43.152.26.197 43.132.66.51 43.132.64.151 43.152.44.160
+Nmap scan report for extranet-alllines-gameunion-pri-c3-c4.alb.xiaomi.com (183.84.7.30)
+Host is up (0.34s latency).
+Other addresses for extranet-alllines-gameunion-pri-c3-c4.alb.xiaomi.com (not scanned): 120.133.33.154
+Nmap scan report for extranet-alllines-pub-c3.alb.xiaomi.com (124.251.34.42)
+Host is up (0.33s latency).
+Other addresses for extranet-alllines-pub-c3.alb.xiaomi.com (not scanned): 120.133.33.137
+Nmap scan report for extranet-alllines-pub-c4.alb.xiaomi.com (183.84.7.4)
+Host is up (0.35s latency).
+Other addresses for extranet-alllines-pub-c4.alb.xiaomi.com (not scanned): 183.84.7.187
+Nmap scan report for extranet-staging-6787-cn-north.alb.xiaomi.com (120.131.0.112)
+Host is up (0.31s latency).
+Nmap scan report for fgc2.market.xiaomi.com (43.152.188.226)
+Host is up (0.034s latency).
+Other addresses for fgc2.market.xiaomi.com (not scanned): 43.152.188.150
+Nmap scan report for fn.market.xiaomi.com (47.246.45.213)
+Host is up (0.023s latency).
+Other addresses for fn.market.xiaomi.com (not scanned): 47.246.45.216 47.246.45.211 47.246.45.215 47.246.45.212 47.246.45.217 47.246.45.210 47.246.45.214
+Nmap scan report for extranet.ap-southeast-1.mipush-fe.kzny3slxm9.elb.xiaomi.com (161.117.162.132)
+Host is up (0.17s latency).
+Nmap scan report for g0.market.xiaomi.com (163.171.135.102)
+Host is up (0.045s latency).
+Nmap scan report for global.market.xiaomi.com (35.158.81.189)
+Host is up (0.072s latency).
+Other addresses for global.market.xiaomi.com (not scanned): 52.28.67.235 3.126.32.253 18.195.225.48 18.198.229.190 3.66.185.202 3.127.114.229 52.28.1.222
+rDNS record for 35.158.81.189: ec2-35-158-81-189.eu-central-1.compute.amazonaws.com
+Nmap scan report for gallery.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for f4.market.xiaomi.com (152.199.21.175)
+Host is up (0.023s latency).
+Nmap scan report for global-ad-intl-pri-alisgp.alb.xiaomi.com (8.219.153.128)
+Host is up (0.17s latency).
+Other addresses for global-ad-intl-pri-alisgp.alb.xiaomi.com (not scanned): 8.219.181.75 8.219.200.242 8.219.202.175 8.222.158.182 8.219.6.117 8.219.7.83 8.219.49.19 8.219.57.66 8.219.61.138 8.219.65.63 8.219.66.154 8.219.69.22 8.219.74.100 8.219.97.229 8.219.100.30 8.219.111.242 8.219.144.122 8.219.149.74 8.219.150.192
+Nmap scan report for global-ad-zilivideo-pri-alisgp.alb.xiaomi.com (8.219.214.77)
+Host is up (0.18s latency).
+Nmap scan report for game.xiaomi.com (20.47.97.231)
+Host is up (0.042s latency).
+Nmap scan report for gallery.cdn.pandora.xiaomi.com (58.215.47.193)
+Host is up (0.32s latency).
+Other addresses for gallery.cdn.pandora.xiaomi.com (not scanned): 58.215.47.194 58.215.47.197 58.215.47.191 58.215.47.196 58.215.47.190 58.215.47.192 58.215.47.195
+Nmap scan report for gimg.cdn.pandora.xiaomi.com (43.132.64.93)
+Host is up (0.060s latency).
+Other addresses for gimg.cdn.pandora.xiaomi.com (not scanned): 43.132.64.96
+Nmap scan report for globalnileapi.market.xiaomi.com (52.57.209.87)
+Host is up (0.037s latency).
+Other addresses for globalnileapi.market.xiaomi.com (not scanned): 35.158.178.147
+rDNS record for 52.57.209.87: ec2-52-57-209-87.eu-central-1.compute.amazonaws.com
+Nmap scan report for galleryc3l7.pandora.xiaomi.com (120.92.66.59)
+Host is up (0.31s latency).
+Nmap scan report for global-ad-pri-alisgp.alb.xiaomi.com (8.219.192.180)
+Host is up (0.17s latency).
+Nmap scan report for galleryl7.pandora.xiaomi.com (120.92.66.59)
+Host is up (0.32s latency).
+Other addresses for galleryl7.pandora.xiaomi.com (not scanned): 183.84.5.181
+Nmap scan report for galleryc4l7.pandora.xiaomi.com (183.84.5.181)
+Host is up (0.33s latency).
+Nmap scan report for h3.market.xiaomi.com (35.241.31.20)
+Host is up (0.0052s latency).
+rDNS record for 35.241.31.20: 20.31.241.35.bc.googleusercontent.com
+Nmap scan report for h4.market.xiaomi.com (35.241.31.20)
+Host is up (0.0051s latency).
+rDNS record for 35.241.31.20: 20.31.241.35.bc.googleusercontent.com
+Nmap scan report for h5-ru.video.intl.xiaomi.com (107.155.51.204)
+Host is up (0.096s latency).
+Other addresses for h5-ru.video.intl.xiaomi.com (not scanned): 107.155.53.1
+Nmap scan report for h5.market.xiaomi.com (35.241.31.20)
+Host is up (0.019s latency).
+rDNS record for 35.241.31.20: 20.31.241.35.bc.googleusercontent.com
+Nmap scan report for global-ad-pri-mbaws.alb.xiaomi.com (65.0.137.112)
+Host is up (0.17s latency).
+Other addresses for global-ad-pri-mbaws.alb.xiaomi.com (not scanned): 43.205.20.10
+rDNS record for 65.0.137.112: ec2-65-0-137-112.ap-south-1.compute.amazonaws.com
+Nmap scan report for hao.xiaomi.com (20.47.97.231)
+Host is up (0.064s latency).
+Nmap scan report for h8.market.xiaomi.com (47.246.45.231)
+Host is up (0.034s latency).
+Other addresses for h8.market.xiaomi.com (not scanned): 47.246.45.230 47.246.45.224 47.246.45.225 47.246.45.227 47.246.45.228 47.246.45.229 47.246.45.226
+Nmap scan report for grayconfig-preview.ai.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for gstat.pandora.xiaomi.com (183.84.5.15)
+Host is up (0.35s latency).
+Other addresses for gstat.pandora.xiaomi.com (not scanned): 124.251.101.50
+Nmap scan report for globalvideo.cdn.pandora.intl.xiaomi.com (212.145.41.224)
+Host is up (0.024s latency).
+Other addresses for globalvideo.cdn.pandora.intl.xiaomi.com (not scanned): 212.145.209.72
+rDNS record for 212.145.41.224: poolvisp1-vig-224.ipcom.comunitel.net
+Nmap scan report for h1.market.xiaomi.com (23.90.190.179)
+Host is up (0.023s latency).
+Other addresses for h1.market.xiaomi.com (not scanned): 23.90.190.178
+Nmap scan report for hr.xiaomi.com (20.47.97.231)
+Host is up (0.064s latency).
+Nmap scan report for extranet.c3.miui-l7-mina.8rjdnhbue3.elb.xiaomi.com (58.83.177.60)
+Host is up (0.35s latency).
+Nmap scan report for hk.billapi.xiaomi.com (20.47.97.231)
+Host is up (0.041s latency).
+Nmap scan report for hk-file-intl-miui-pri-alisgp.alb.xiaomi.com (47.241.189.29)
+Host is up (0.17s latency).
+Nmap scan report for hk.mibi.api.xiaomi.com (20.47.97.231)
+Host is up (0.080s latency).
+Nmap scan report for hot-browser-intl-miui-pri-alisgp.alb.xiaomi.com (47.241.57.225)
+Host is up (0.17s latency).
+Nmap scan report for hot-newsfeed-intl-miui-pri-alisgp.alb.xiaomi.com (47.241.102.154)
+Host is up (0.17s latency).
+Nmap scan report for hy.game.xiaomi.com (20.47.97.231)
+Host is up (0.080s latency).
+Nmap scan report for hysdk.game.xiaomi.com (20.47.97.231)
+Host is up (0.059s latency).
+Nmap scan report for ics-oms.ai.xiaomi.com (3.127.227.23)
+Host is up (0.039s latency).
+Other addresses for ics-oms.ai.xiaomi.com (not scanned): 18.194.222.150
+rDNS record for 3.127.227.23: ec2-3-127-227-23.eu-central-1.compute.amazonaws.com
+Nmap scan report for image.box.xiaomi.com (18.154.56.110)
+Host is up (0.0058s latency).
+Other addresses for image.box.xiaomi.com (not scanned): 18.154.56.15 18.154.56.134 18.154.56.196
+rDNS record for 18.154.56.110: server-18-154-56-110.mad56.r.cloudfront.net
+Nmap scan report for ics-staging.ai.xiaomi.com (20.47.97.231)
+Host is up (0.042s latency).
+Nmap scan report for hybrid.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for images.cdn.pt.xiaomi.com (47.246.45.226)
+Host is up (0.034s latency).
+Other addresses for images.cdn.pt.xiaomi.com (not scanned): 47.246.45.225 47.246.45.231 47.246.45.230 47.246.45.227 47.246.45.224 47.246.45.228 47.246.45.229
+Nmap scan report for gallery.market.xiaomi.com (212.145.41.224)
+Host is up (0.024s latency).
+Other addresses for gallery.market.xiaomi.com (not scanned): 212.145.209.72
+rDNS record for 212.145.41.224: poolvisp1-vig-224.ipcom.comunitel.net
+Nmap scan report for im-x-api-io-pri-alisgp.alb.xiaomi.com (8.219.121.2)
+Host is up (0.17s latency).
+Other addresses for im-x-api-io-pri-alisgp.alb.xiaomi.com (not scanned): 8.219.41.4
+Nmap scan report for ics.ai.xiaomi.com (20.47.97.231)
+Host is up (0.080s latency).
+Nmap scan report for image.cdn.mvideo.xiaomi.com (163.171.135.102)
+Host is up (0.045s latency).
+Nmap scan report for in.zhuti.designer.intl.xiaomi.com (65.1.205.146)
+Host is up (0.17s latency).
+Other addresses for in.zhuti.designer.intl.xiaomi.com (not scanned): 3.109.228.213
+rDNS record for 65.1.205.146: ec2-65-1-205-146.ap-south-1.compute.amazonaws.com
+Nmap scan report for in.lp.account.xiaomi.com (20.47.97.125)
+Host is up (0.054s latency).
+Nmap scan report for infosec.xiaomi.com (3.127.227.23)
+Host is up (0.096s latency).
+Other addresses for infosec.xiaomi.com (not scanned): 18.194.222.150
+rDNS record for 3.127.227.23: ec2-3-127-227-23.eu-central-1.compute.amazonaws.com
+Nmap scan report for inapi.pay.xiaomi.com (20.47.97.231)
+Host is up (0.065s latency).
+Nmap scan report for ins.tos.staging.mifi.pt.xiaomi.com (120.92.42.198)
+Host is up (0.31s latency).
+Nmap scan report for iss.xiaomi.com (20.47.97.231)
+Host is up (0.058s latency).
+Nmap scan report for jellyfish.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for kg.ai.xiaomi.com (20.47.97.231)
+Host is up (0.079s latency).
+Nmap scan report for land.cname.xiaomi.com (3.123.61.166)
+Host is up (0.056s latency).
+Other addresses for land.cname.xiaomi.com (not scanned): 3.126.5.7
+rDNS record for 3.123.61.166: ec2-3-123-61-166.eu-central-1.compute.amazonaws.com
+Nmap scan report for ksbgp.fe01.c3.xiaomi.com (120.92.96.215)
+Host is up (0.31s latency).
+Other addresses for ksbgp.fe01.c3.xiaomi.com (not scanned): 120.92.96.214
+Nmap scan report for lg-bgp-misc.pandora.xiaomi.com (124.251.101.26)
+Host is up (0.33s latency).
+Nmap scan report for kv.cdn.mvideo.xiaomi.com (218.60.21.6)
+Host is up (0.33s latency).
+Other addresses for kv.cdn.mvideo.xiaomi.com (not scanned): 111.227.116.1 122.227.201.1 116.253.30.232 221.195.228.1 42.81.54.129 115.231.33.1 175.6.49.1 221.204.17.1
+Nmap scan report for kv.cdn.pandora.xiaomi.com (122.227.201.1)
+Host is up (0.35s latency).
+Other addresses for kv.cdn.pandora.xiaomi.com (not scanned): 116.253.30.232 221.195.228.1 42.81.54.129 115.231.33.1 175.6.49.1 221.204.17.1 218.60.21.6 111.227.116.1
+Nmap scan report for logout.xiaomi.com (20.47.96.104)
+Host is up (0.039s latency).
+Nmap scan report for login.dushu.xiaomi.com (20.47.97.231)
+Host is up (0.041s latency).
+Nmap scan report for m.bss.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for login.game.xiaomi.com (124.251.101.12)
+Host is up (0.36s latency).
+Nmap scan report for m.video.xiaomi.com (124.251.101.3)
+Host is up (0.32s latency).
+Other addresses for m.video.xiaomi.com (not scanned): 183.84.5.56
+Nmap scan report for matrixl-pri-azams.alb.xiaomi.com (20.47.115.118)
+Host is up (0.039s latency).
+Nmap scan report for maven.hybrid.xiaomi.com (20.47.97.231)
+Host is up (0.059s latency).
+Nmap scan report for matrix-pri-ksmos-epc.alb.xiaomi.com (107.155.53.1)
+Host is up (0.11s latency).
+Other addresses for matrix-pri-ksmos-epc.alb.xiaomi.com (not scanned): 107.155.51.204
+Nmap scan report for matrix-mb2-pri-mbaws.alb.xiaomi.com (3.110.253.176)
+Host is up (0.18s latency).
+Other addresses for matrix-mb2-pri-mbaws.alb.xiaomi.com (not scanned): 3.7.15.85
+rDNS record for 3.110.253.176: ec2-3-110-253-176.ap-south-1.compute.amazonaws.com
+Nmap scan report for matrix-pri-mbaws.alb.xiaomi.com (3.109.97.37)
+Host is up (0.18s latency).
+Other addresses for matrix-pri-mbaws.alb.xiaomi.com (not scanned): 3.109.6.190
+rDNS record for 3.109.97.37: ec2-3-109-97-37.ap-south-1.compute.amazonaws.com
+Nmap scan report for matrix-pub-c3-c4.alb.xiaomi.com (124.251.100.130)
+Host is up (0.33s latency).
+Other addresses for matrix-pub-c3-c4.alb.xiaomi.com (not scanned): 183.84.7.86
+Nmap scan report for matrix-pri-alisgp.alb.xiaomi.com (8.219.247.27)
+Host is up (0.17s latency).
+Other addresses for matrix-pri-alisgp.alb.xiaomi.com (not scanned): 8.222.231.58 8.222.240.194 47.241.97.200 8.219.246.161
+Nmap scan report for log.pandora.xiaomi.com (183.84.7.4)
+Host is up (0.35s latency).
+Other addresses for log.pandora.xiaomi.com (not scanned): 183.84.7.187 120.133.33.137 124.251.34.42
+Nmap scan report for media.pre.pandora.xiaomi.com (118.26.252.188)
+Host is up (0.32s latency).
+Nmap scan report for mediainfo.pandora.xiaomi.com (124.251.101.26)
+Host is up (0.33s latency).
+Nmap scan report for mibi.market.xiaomi.com (212.145.41.224)
+Host is up (0.024s latency).
+Other addresses for mibi.market.xiaomi.com (not scanned): 212.145.209.72
+rDNS record for 212.145.41.224: poolvisp1-vig-224.ipcom.comunitel.net
+Nmap scan report for medial7.pandora.xiaomi.com (120.92.65.93)
+Host is up (0.32s latency).
+Other addresses for medial7.pandora.xiaomi.com (not scanned): 124.251.101.50 183.84.5.15
+Nmap scan report for mias.market.xiaomi.com (20.47.97.231)
+Host is up (0.11s latency).
+Nmap scan report for mierapp.sec.xiaomi.com (20.47.97.231)
+Host is up (0.11s latency).
+Nmap scan report for milink.pds.pandora.xiaomi.com (183.84.6.65)
+Host is up (0.34s latency).
+Nmap scan report for mivideo.cdn.pandora.xiaomi.com (47.246.45.210)
+Host is up (0.023s latency).
+Other addresses for mivideo.cdn.pandora.xiaomi.com (not scanned): 47.246.45.217 47.246.45.212 47.246.45.215 47.246.45.211 47.246.45.214 47.246.45.213 47.246.45.216
+Nmap scan report for miui-sec-pri-alisgp.alb.xiaomi.com (8.219.247.14)
+Host is up (0.17s latency).
+Other addresses for miui-sec-pri-alisgp.alb.xiaomi.com (not scanned): 8.219.159.87
+Nmap scan report for mis.migc.xiaomi.com (20.47.97.231)
+Host is up (0.11s latency).
+Nmap scan report for mishop.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for monitor.pandora.xiaomi.com (124.251.101.26)
+Host is up (0.34s latency).
+Other addresses for monitor.pandora.xiaomi.com (not scanned): 183.84.5.15
+Nmap scan report for mipush.global.xiaomi.com (20.47.97.231)
+Host is up (0.080s latency).
+Nmap scan report for miuirom.xiaomi.com (212.145.41.224)
+Host is up (0.024s latency).
+Other addresses for miuirom.xiaomi.com (not scanned): 212.145.209.72
+rDNS record for 212.145.41.224: poolvisp1-vig-224.ipcom.comunitel.net
+Nmap scan report for nexus.pandora.xiaomi.com (3.127.227.23)
+Host is up (0.063s latency).
+Other addresses for nexus.pandora.xiaomi.com (not scanned): 18.194.222.150
+rDNS record for 3.127.227.23: ec2-3-127-227-23.eu-central-1.compute.amazonaws.com
+Nmap scan report for music.pandora.xiaomi.com (183.84.6.65)
+Host is up (0.34s latency).
+Nmap scan report for netcheck.pandora.xiaomi.com (120.92.42.162)
+Host is up (0.31s latency).
+Nmap scan report for nileapi.market.xiaomi.com (20.47.97.231)
+Host is up (0.081s latency).
+Nmap scan report for nlp.ai.xiaomi.com (20.47.97.231)
+Host is up (0.080s latency).
+Nmap scan report for nlp-preview4test.ai.xiaomi.com (20.47.97.231)
+Host is up (0.081s latency).
+Nmap scan report for nlp-preview.ai.xiaomi.com (20.47.97.231)
+Host is up (0.041s latency).
+Nmap scan report for miui-sec-pri-mbaws.alb.xiaomi.com (13.232.82.180)
+Host is up (0.17s latency).
+Other addresses for miui-sec-pri-mbaws.alb.xiaomi.com (not scanned): 15.206.143.166
+rDNS record for 13.232.82.180: ec2-13-232-82-180.ap-south-1.compute.amazonaws.com
+Nmap scan report for omserver.ad.intl.xiaomi.com (65.0.137.112)
+Host is up (0.17s latency).
+Other addresses for omserver.ad.intl.xiaomi.com (not scanned): 43.205.20.10
+rDNS record for 65.0.137.112: ec2-65-0-137-112.ap-south-1.compute.amazonaws.com
+Nmap scan report for notice.game.xiaomi.com (20.47.97.231)
+Host is up (0.058s latency).
+Nmap scan report for ottl7-l2.pandora.xiaomi.com (183.84.6.199)
+Host is up (0.33s latency).
+Other addresses for ottl7-l2.pandora.xiaomi.com (not scanned): 120.133.33.141
+Nmap scan report for ottl7.pandora.xiaomi.com (183.84.5.15)
+Host is up (0.34s latency).
+Other addresses for ottl7.pandora.xiaomi.com (not scanned): 124.251.101.50
+Nmap scan report for ofile.market.xiaomi.com (118.112.233.1)
+Host is up (0.35s latency).
+Other addresses for ofile.market.xiaomi.com (not scanned): 219.144.69.6 175.6.49.1 1.193.210.6 1.194.250.6 39.91.190.6 111.227.116.1 122.227.201.1 60.221.16.6 116.162.19.1
+Nmap scan report for pfga2.market.xiaomi.com (212.145.41.224)
+Host is up (0.025s latency).
+Other addresses for pfga2.market.xiaomi.com (not scanned): 212.145.209.72
+rDNS record for 212.145.41.224: poolvisp1-vig-224.ipcom.comunitel.net
+Nmap scan report for open-schedule-prod.ai.xiaomi.com (183.84.7.86)
+Host is up (0.33s latency).
+Other addresses for open-schedule-prod.ai.xiaomi.com (not scanned): 124.251.100.130
+Nmap scan report for pc.gallery.cdn.pandora.xiaomi.com (111.227.116.1)
+Host is up (0.34s latency).
+Other addresses for pc.gallery.cdn.pandora.xiaomi.com (not scanned): 122.227.201.1 60.221.16.6 116.162.19.1 118.112.233.1 219.144.69.6 175.6.49.1 1.193.210.6 1.194.250.6 39.91.190.6
+Nmap scan report for pfga1.market.xiaomi.com (60.221.16.6)
+Host is up (0.32s latency).
+Other addresses for pfga1.market.xiaomi.com (not scanned): 116.162.19.1 118.112.233.1 219.144.69.6 175.6.49.1 1.193.210.6 1.194.250.6 39.91.190.6 111.227.116.1 122.227.201.1
+rDNS record for 60.221.16.6: 6.16.221.60.adsl-pool.sx.cn
+Nmap scan report for p.www.xiaomi.com (221.195.228.1)
+Host is up (0.31s latency).
+Other addresses for p.www.xiaomi.com (not scanned): 42.81.54.129 115.231.33.1 175.6.49.1 221.204.17.1 218.60.21.6 111.227.116.1 122.227.201.1 116.253.30.232
+Nmap scan report for preview4test-api.ai.xiaomi.com (20.47.97.231)
+Host is up (0.098s latency).
+Nmap scan report for pfga0.market.xiaomi.com (120.226.43.250)
+Host is up (0.24s latency).
+Other addresses for pfga0.market.xiaomi.com (not scanned): 111.6.167.86 117.141.140.112 117.185.129.99 183.204.72.250 111.31.112.80 120.226.43.251 111.6.167.87 117.141.140.111 117.185.129.105 183.204.72.249 111.31.112.79
+Nmap scan report for r2.ai.xiaomi.com (3.127.227.23)
+Host is up (0.039s latency).
+Other addresses for r2.ai.xiaomi.com (not scanned): 18.194.222.150
+rDNS record for 3.127.227.23: ec2-3-127-227-23.eu-central-1.compute.amazonaws.com
+Nmap scan report for ptmi.gitv.pandora.xiaomi.com (124.251.101.50)
+Host is up (0.33s latency).
+Other addresses for ptmi.gitv.pandora.xiaomi.com (not scanned): 183.84.5.15
+Nmap scan report for quan.mis.migc.xiaomi.com (20.47.97.231)
+Host is up (0.058s latency).
+Nmap scan report for r.app.xiaomi.com (20.47.97.231)
+Host is up (0.064s latency).
+Nmap scan report for resolver-global-pri-alisgp.alb.xiaomi.com (8.219.182.3)
+Host is up (0.17s latency).
+Other addresses for resolver-global-pri-alisgp.alb.xiaomi.com (not scanned): 8.219.211.108 8.219.250.120 47.241.56.51 47.241.174.254 8.219.74.181 8.219.162.1
+Nmap scan report for ruapi.pay.xiaomi.com (20.47.97.231)
+Host is up (0.074s latency).
+Nmap scan report for resolver.mi.xiaomi.com (20.47.97.238)
+Host is up (0.097s latency).
+Nmap scan report for repos.xiaomi.com (3.127.227.23)
+Host is up (0.035s latency).
+Other addresses for repos.xiaomi.com (not scanned): 18.194.222.150
+rDNS record for 3.127.227.23: ec2-3-127-227-23.eu-central-1.compute.amazonaws.com
+Nmap scan report for resource.ai.xiaomi.com (20.47.97.231)
+Host is up (0.074s latency).
+Nmap scan report for sec.xiaomi.com (20.47.97.231)
+Host is up (0.065s latency).
+Nmap scan report for ruvideo.cdn.pandora.intl.xiaomi.com (47.246.45.224)
+Host is up (0.025s latency).
+Other addresses for ruvideo.cdn.pandora.intl.xiaomi.com (not scanned): 47.246.45.228 47.246.45.226 47.246.45.230 47.246.45.225 47.246.45.231 47.246.45.227 47.246.45.229
+Nmap scan report for secode2.hd.xiaomi.com (163.171.135.102)
+Host is up (0.0046s latency).
+Nmap scan report for s010.iss.xiaomi.com (20.47.97.231)
+Host is up (0.058s latency).
+Nmap scan report for sentry.pay.xiaomi.com (20.47.97.231)
+Host is up (0.098s latency).
+Nmap scan report for sf0.market.xiaomi.com (47.246.45.224)
+Host is up (0.026s latency).
+Other addresses for sf0.market.xiaomi.com (not scanned): 47.246.45.225 47.246.45.229 47.246.45.230 47.246.45.226 47.246.45.227 47.246.45.228 47.246.45.231
+Nmap scan report for sf.pay.xiaomi.com (20.47.97.231)
+Host is up (0.099s latency).
+Nmap scan report for shop.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for sgp.g0.cn.slb.xiaomi.com (161.117.171.225)
+Host is up (0.17s latency).
+Nmap scan report for sgp-l7-apm.slb.xiaomi.com (161.117.71.158)
+Host is up (0.17s latency).
+Other addresses for sgp-l7-apm.slb.xiaomi.com (not scanned): 8.214.39.113 8.214.138.156 161.117.71.156
+Nmap scan report for soundbar.pandora.xiaomi.com (124.251.101.26)
+Host is up (0.33s latency).
+Nmap scan report for sgp.lp.account.xiaomi.com (20.47.97.125)
+Host is up (0.039s latency).
+Nmap scan report for speech-preview.ai.xiaomi.com (20.47.97.231)
+Host is up (0.059s latency).
+Nmap scan report for speech.ai.xiaomi.com (20.47.97.231)
+Host is up (0.070s latency).
+Nmap scan report for sms.pt.xiaomi.com (120.133.33.137)
+Host is up (0.33s latency).
+Other addresses for sms.pt.xiaomi.com (not scanned): 124.251.34.42 183.84.7.4 183.84.7.187
+Nmap scan report for sns.account.xiaomi.com (20.47.97.125)
+Host is up (0.072s latency).
+Nmap scan report for staging.nfcpay.xiaomi.com (20.47.97.231)
+Host is up (0.094s latency).
+Nmap scan report for static.music.xiaomi.com (20.47.97.231)
+Host is up (0.094s latency).
+Nmap scan report for stat.pay.xiaomi.com (20.47.97.231)
+Host is up (0.094s latency).
+Nmap scan report for static.verify.sec.xiaomi.com (20.47.97.231)
+Host is up (0.070s latency).
+Nmap scan report for staging.static.pay.xiaomi.com (20.47.97.231)
+Host is up (0.055s latency).
+Nmap scan report for staging.sf.pay.xiaomi.com (20.47.97.231)
+Host is up (0.055s latency).
+Nmap scan report for t14.market.xiaomi.com (47.246.45.225)
+Host is up (0.027s latency).
+Other addresses for t14.market.xiaomi.com (not scanned): 47.246.45.229 47.246.45.228 47.246.45.224 47.246.45.227 47.246.45.230 47.246.45.231 47.246.45.226
+Nmap scan report for t1.market.xiaomi.com (47.246.45.230)
+Host is up (0.048s latency).
+Other addresses for t1.market.xiaomi.com (not scanned): 47.246.45.227 47.246.45.229 47.246.45.224 47.246.45.228 47.246.45.226 47.246.45.225 47.246.45.231
+Nmap scan report for storeapi02.pay.xiaomi.com (20.47.97.231)
+Host is up (0.070s latency).
+Nmap scan report for static.pay.xiaomi.com (23.90.190.179)
+Host is up (0.023s latency).
+Other addresses for static.pay.xiaomi.com (not scanned): 23.90.190.178
+Nmap scan report for t3.a.market.xiaomi.com (43.132.64.93)
+Host is up (0.060s latency).
+Other addresses for t3.a.market.xiaomi.com (not scanned): 101.33.11.29 43.132.66.177 43.132.64.96 101.33.11.110 43.132.66.178
+Nmap scan report for t1.a.market.xiaomi.com (43.132.66.177)
+Host is up (0.054s latency).
+Other addresses for t1.a.market.xiaomi.com (not scanned): 43.132.64.96 101.33.11.110 43.132.66.178 43.132.64.93 101.33.11.29
+Nmap scan report for t4.a.market.xiaomi.com (101.33.11.110)
+Host is up (0.032s latency).
+Other addresses for t4.a.market.xiaomi.com (not scanned): 43.132.66.178 43.132.64.93 101.33.11.29 43.132.66.177 43.132.64.96
+Nmap scan report for t15.market.xiaomi.com (47.246.45.226)
+Host is up (0.046s latency).
+Other addresses for t15.market.xiaomi.com (not scanned): 47.246.45.225 47.246.45.228 47.246.45.231 47.246.45.227 47.246.45.229 47.246.45.230 47.246.45.224
+Nmap scan report for t4.market.xiaomi.com (47.246.45.229)
+Host is up (0.048s latency).
+Other addresses for t4.market.xiaomi.com (not scanned): 47.246.45.224 47.246.45.228 47.246.45.226 47.246.45.225 47.246.45.231 47.246.45.230 47.246.45.227
+Nmap scan report for t2.a.market.xiaomi.com (47.246.45.227)
+Host is up (0.046s latency).
+Other addresses for t2.a.market.xiaomi.com (not scanned): 47.246.45.228 47.246.45.231 47.246.45.224 47.246.45.226 47.246.45.230 47.246.45.229 47.246.45.225
+Nmap scan report for t3.market.xiaomi.com (47.246.45.228)
+Host is up (0.047s latency).
+Other addresses for t3.market.xiaomi.com (not scanned): 47.246.45.226 47.246.45.225 47.246.45.231 47.246.45.230 47.246.45.227 47.246.45.229 47.246.45.224
+Nmap scan report for t5.a.market.xiaomi.com (47.246.45.225)
+Host is up (0.026s latency).
+Other addresses for t5.a.market.xiaomi.com (not scanned): 47.246.45.227 47.246.45.230 47.246.45.231 47.246.45.224 47.246.45.228 47.246.45.226 47.246.45.229
+Nmap scan report for static-verify.sec.xiaomi.com (20.47.97.231)
+Host is up (0.058s latency).
+Nmap scan report for t10.market.xiaomi.com (47.246.45.225)
+Host is up (0.027s latency).
+Other addresses for t10.market.xiaomi.com (not scanned): 47.246.45.231 47.246.45.230 47.246.45.227 47.246.45.229 47.246.45.224 47.246.45.228 47.246.45.226
+Nmap scan report for t7.a.market.xiaomi.com (212.145.41.224)
+Host is up (0.025s latency).
+Other addresses for t7.a.market.xiaomi.com (not scanned): 212.145.209.72
+rDNS record for 212.145.41.224: poolvisp1-vig-224.ipcom.comunitel.net
+Nmap scan report for t9.market.xiaomi.com (47.246.45.230)
+Host is up (0.018s latency).
+Other addresses for t9.market.xiaomi.com (not scanned): 47.246.45.227 47.246.45.229 47.246.45.224 47.246.45.228 47.246.45.226 47.246.45.225 47.246.45.231
+Nmap scan report for static.account.xiaomi.com (20.47.97.125)
+Host is up (0.043s latency).
+Nmap scan report for t5.market.xiaomi.com (47.246.45.229)
+Host is up (0.048s latency).
+Other addresses for t5.market.xiaomi.com (not scanned): 47.246.45.224 47.246.45.228 47.246.45.226 47.246.45.225 47.246.45.231 47.246.45.230 47.246.45.227
+Nmap scan report for static.hybrid.xiaomi.com (183.84.7.86)
+Host is up (0.34s latency).
+Other addresses for static.hybrid.xiaomi.com (not scanned): 124.251.100.130
+Nmap scan report for t2.market.xiaomi.com (47.246.45.228)
+Host is up (0.048s latency).
+Other addresses for t2.market.xiaomi.com (not scanned): 47.246.45.226 47.246.45.225 47.246.45.231 47.246.45.230 47.246.45.227 47.246.45.229 47.246.45.224
+Nmap scan report for thirdapps.pt.xiaomi.com (18.194.222.150)
+Host is up (0.059s latency).
+Other addresses for thirdapps.pt.xiaomi.com (not scanned): 3.127.227.23
+rDNS record for 18.194.222.150: ec2-18-194-222-150.eu-central-1.compute.amazonaws.com
+Nmap scan report for teleprivacy.account.xiaomi.com (20.47.97.231)
+Host is up (0.050s latency).
+Nmap scan report for tmall.api.xiaomi.com (20.47.97.231)
+Host is up (0.070s latency).
+Nmap scan report for t13.market.xiaomi.com (47.246.45.228)
+Host is up (0.047s latency).
+Other addresses for t13.market.xiaomi.com (not scanned): 47.246.45.231 47.246.45.227 47.246.45.229 47.246.45.230 47.246.45.224 47.246.45.226 47.246.45.225
+Nmap scan report for tracker.ai.xiaomi.com (20.47.97.231)
+Host is up (0.056s latency).
+Nmap scan report for tv.intl.xiaomi.com (47.74.172.19)
+Host is up (0.17s latency).
+Other addresses for tv.intl.xiaomi.com (not scanned): 47.74.175.105
+Nmap scan report for translator.ai.xiaomi.com (20.47.97.231)
+Host is up (0.054s latency).
+Nmap scan report for theme.xiaomi.com (47.241.97.200)
+Host is up (0.17s latency).
+Other addresses for theme.xiaomi.com (not scanned): 8.219.246.161 8.219.247.27 8.222.231.58 8.222.240.194
+Nmap scan report for themes.xiaomi.com (8.219.247.27)
+Host is up (0.17s latency).
+Other addresses for themes.xiaomi.com (not scanned): 8.222.231.58 8.222.240.194 47.241.97.200 8.219.246.161
+Nmap scan report for tracker-preview.ai.xiaomi.com (20.47.97.231)
+Host is up (0.070s latency).
+Nmap scan report for translate.ai.xiaomi.com (20.47.97.231)
+Host is up (0.074s latency).
+Nmap scan report for theme-intl.cdn.zhuti.xiaomi.com (77.209.227.81)
+Host is up (0.0063s latency).
+Other addresses for theme-intl.cdn.zhuti.xiaomi.com (not scanned): 77.209.227.88
+Nmap scan report for translator.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for tvmgr.pandora.xiaomi.com (43.224.247.26)
+Host is up (0.23s latency).
+Nmap scan report for tvboss.pandora.xiaomi.com (124.251.101.3)
+Host is up (0.32s latency).
+Other addresses for tvboss.pandora.xiaomi.com (not scanned): 183.84.5.56
+Nmap scan report for tvstat.pandora.xiaomi.com (124.251.101.26)
+Host is up (0.33s latency).
+Nmap scan report for tw.speech.ai.xiaomi.com (20.47.97.231)
+Host is up (0.056s latency).
+Nmap scan report for tw.nlp.ai.xiaomi.com (20.47.97.231)
+Host is up (0.071s latency).
+Nmap scan report for theme.pandora.xiaomi.com (183.84.6.65)
+Host is up (0.34s latency).
+Nmap scan report for v3.market.xiaomi.com (23.90.190.179)
+Host is up (0.022s latency).
+Other addresses for v3.market.xiaomi.com (not scanned): 23.90.190.178
+Nmap scan report for v4.market.xiaomi.com (23.90.190.179)
+Host is up (0.029s latency).
+Other addresses for v4.market.xiaomi.com (not scanned): 23.90.190.178
+Nmap scan report for v2.market.xiaomi.com (23.90.190.179)
+Host is up (0.020s latency).
+Other addresses for v2.market.xiaomi.com (not scanned): 23.90.190.178
+Nmap scan report for v1.market.xiaomi.com (23.90.190.179)
+Host is up (0.020s latency).
+Other addresses for v1.market.xiaomi.com (not scanned): 23.90.190.178
+Nmap scan report for v0.market.xiaomi.com (23.90.190.179)
+Host is up (0.019s latency).
+Other addresses for v0.market.xiaomi.com (not scanned): 23.90.190.178
+Nmap scan report for wallpaper.cdn.pandora.xiaomi.com (18.154.22.59)
+Host is up (0.033s latency).
+Other addresses for wallpaper.cdn.pandora.xiaomi.com (not scanned): 18.154.22.15 18.154.22.42 18.154.22.91
+rDNS record for 18.154.22.59: server-18-154-22-59.mad53.r.cloudfront.net
+Nmap scan report for v6.market.xiaomi.com (23.90.190.179)
+Host is up (0.042s latency).
+Other addresses for v6.market.xiaomi.com (not scanned): 23.90.190.178
+Nmap scan report for vip.api.xmpush.global.xiaomi.com (20.47.97.231)
+Host is up (0.070s latency).
+Nmap scan report for vip.api.xmpush.xiaomi.com (118.26.252.73)
+Host is up (0.33s latency).
+Other addresses for vip.api.xmpush.xiaomi.com (not scanned): 220.181.106.178
+Nmap scan report for upgrade.pandora.xiaomi.com (20.47.97.231)
+Host is up (0.064s latency).
+Nmap scan report for v9.market.xiaomi.com (23.90.190.179)
+Host is up (0.019s latency).
+Other addresses for v9.market.xiaomi.com (not scanned): 23.90.190.178
+Nmap scan report for v8.market.xiaomi.com (23.90.190.179)
+Host is up (0.019s latency).
+Other addresses for v8.market.xiaomi.com (not scanned): 23.90.190.178
+Nmap scan report for weatherapi.intl.xiaomi.com (20.47.97.238)
+Host is up (0.063s latency).
+Nmap scan report for weather.pandora.xiaomi.com (183.84.6.65)
+Host is up (0.35s latency).
+Nmap scan report for wallpaper.pandora.xiaomi.com (183.84.7.86)
+Host is up (0.34s latency).
+Other addresses for wallpaper.pandora.xiaomi.com (not scanned): 124.251.100.130
+Nmap scan report for wp.ai.xiaomi.com (183.84.7.86)
+Host is up (0.34s latency).
+Other addresses for wp.ai.xiaomi.com (not scanned): 124.251.100.130
+Nmap scan report for vd0.market.xiaomi.com (47.246.45.224)
+Host is up (0.026s latency).
+Other addresses for vd0.market.xiaomi.com (not scanned): 47.246.45.230 47.246.45.227 47.246.45.228 47.246.45.229 47.246.45.225 47.246.45.231 47.246.45.226
+Nmap scan report for verify.sec.xiaomi.com (20.47.97.231)
+Host is up (0.065s latency).
+Nmap scan report for wtradv.market.xiaomi.com (183.84.6.191)
+Host is up (0.33s latency).
+Other addresses for wtradv.market.xiaomi.com (not scanned): 124.251.100.17
+Nmap scan report for x-stellar-intl-miui-pri-alisgp.alb.xiaomi.com (47.241.190.250)
+Host is up (0.17s latency).
+Nmap scan report for x-api-intl-miui-pri-alisgp.alb.xiaomi.com (47.241.127.251)
+Host is up (0.17s latency).
+Other addresses for x-api-intl-miui-pri-alisgp.alb.xiaomi.com (not scanned): 47.241.182.194 47.241.185.190
+Nmap scan report for zhuti.designer.intl.xiaomi.com (47.245.108.49)
+Host is up (0.17s latency).
+Nmap scan report for yunying.game.xiaomi.com (183.84.7.86)
+Host is up (0.33s latency).
+Other addresses for yunying.game.xiaomi.com (not scanned): 124.251.100.130
+Nmap scan report for x-kachishop-com-pri-alisgp.alb.xiaomi.com (8.219.11.22)
+Host is up (0.17s latency).
+Nmap done: 355 IP addresses (355 hosts up) scanned in 33.37 seconds
